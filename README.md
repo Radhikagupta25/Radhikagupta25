@@ -38,6 +38,27 @@ Learning, building, and experimenting with new tech every day!
 
 ---
 
+## 📊 GitHub Stats
+
+Here’s a snapshot of my GitHub activity, top languages, and coding streaks:
+
+### 🔹 Overall Stats
+![Radhika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikagupta25&show_icons=true&theme=radical)
+
+### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25&layout=compact&theme=radical)
+
+### 🔹 Coding Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=radical)
+
+---
+
+## 💭 Dev Thought
+
+*"Code with curiosity, build with passion, and never stop exploring."*  
+
+---
+
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/radhika-gupta-596296290
 - Mail:radhikagupta.r25@gmail.com
