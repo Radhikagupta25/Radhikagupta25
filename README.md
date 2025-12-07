@@ -40,13 +40,17 @@ Learning, building, and experimenting with new tech every day!
 
 ## 📊 GitHub Stats
 
-Here’s a snapshot of my GitHub activity, top languages, and coding streaks:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhikagupta25&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-### 🔹 Overall Stats
-![Radhika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikagupta25&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=radical" alt="GitHub Streak" />
+</p>
 
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 🔹 Coding Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=radical)
