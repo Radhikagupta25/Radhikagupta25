@@ -38,21 +38,7 @@ Learning, building, and experimenting with new tech every day!
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhikagupta25&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🔹 Coding Streak
+## 🔹 Coding Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=radical)
 
 ---
