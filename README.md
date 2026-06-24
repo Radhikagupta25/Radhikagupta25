@@ -67,10 +67,10 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 ## 📈 Coding Profiles
 
-* [LeetCode]{https://leetcode.com/u/Radhikagupta25/}
-* [GeeksforGeeks]{https://www.geeksforgeeks.org/profile/radhikaaag7aqy}
-* [GitHub]{https://github.com/Radhikagupta25}
-
+* [LeetCode](https://leetcode.com/u/Radhikagupta25/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/profile/radhikaaag7aqy)
+* [GitHub](https://github.com/Radhikagupta25)
+  
 ---
 
 ##  Current Focus
@@ -84,11 +84,11 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 ##  Connect With Me
 
-📧 [radhikagupta.r25@gmail.com](mailto:radhikaaaguptaaa25@gmail.com)
+📧 Mail: [radhikagupta.r25@gmail.com](mailto:radhikaaaguptaaa25@gmail.com)
 
 💼 LinkedIn: [www.linkedin.com/in/radhika-gupta-596296290](http://www.linkedin.com/in/radhika-gupta-596296290)
 
-🌐 GitHub: [github.com/Radhikagupta25]{https://github.com/Radhikagupta25}
+🌐 GitHub: [github.com/Radhikagupta25](https://github.com/Radhikagupta25)
 
 ---
 
