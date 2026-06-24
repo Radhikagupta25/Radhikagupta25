@@ -84,7 +84,7 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 ##  Connect With Me
 
-📧 Mail: [radhikaaaaguptaaaa25@gmail.com](mailto:radhikaaaguptaaa25@gmail.com)
+📧 Mail: [radhikaaaaguptaaa25@gmail.com](mailto:radhikaaaguptaaa25@gmail.com)
 
 💼 LinkedIn: [www.linkedin.com/in/radhika-gupta-596296290](http://www.linkedin.com/in/radhika-gupta-596296290)
 
