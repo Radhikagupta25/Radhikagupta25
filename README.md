@@ -3,7 +3,7 @@
 I'm a Full Stack developer passionate about building impactful software and solving challenging problems.
 
 * Building full-stack web applications with the MERN stack
-* Solved 670+ Data Structures & Algorithms problems across LeetCode and GeeksforGeeks
+* Solved 600+ Data Structures & Algorithms problems across LeetCode and GeeksforGeeks
 * Interested in Software Engineering, System Design, and AI-powered applications
 * Currently exploring Machine Learning and advanced backend development
 
@@ -65,6 +65,14 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 ---
 
+## 📈 Coding Profiles
+
+* [LeetCode]{https://leetcode.com/u/Radhikagupta25/}
+* [GeeksforGeeks]{https://www.geeksforgeeks.org/profile/radhikaaag7aqy}
+* [GitHub]{https://github.com/Radhikagupta25}
+
+---
+
 ##  Current Focus
 
 * Advanced Data Structures & Algorithms
@@ -80,7 +88,7 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 💼 LinkedIn: [www.linkedin.com/in/radhika-gupta-596296290](http://www.linkedin.com/in/radhika-gupta-596296290)
 
-🌐 GitHub: github.com/Radhikagupta25
+🌐 GitHub: [github.com/Radhikagupta25]{https://github.com/Radhikagupta25}
 
 ---
 
