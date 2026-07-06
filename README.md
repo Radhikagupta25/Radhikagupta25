@@ -49,13 +49,21 @@ I'm a Full Stack developer passionate about building impactful software and solv
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikagupta25\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radhikagupta25&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikagupta25&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagupta25&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
